@@ -1,0 +1,26 @@
+//----------------------------------------------------------------------
+// Created with uvmf_gen version 2022.3
+//----------------------------------------------------------------------
+// pragma uvmf custom header begin
+// pragma uvmf custom header end
+//----------------------------------------------------------------------
+//----------------------------------------------------------------------
+//
+
+,
+Interface Description, Interface Type, Interface Transaction, Interface Name,
+fetch_fetch_in_agent, fetch_in_driver_bfm fetch_in_monitor_bfm, fetch_in_transaction, fetch_in_pkg_fetch_fetch_in_agent_BFM,
+fetch_fetch_out_agent, fetch_out_driver_bfm fetch_out_monitor_bfm, fetch_out_transaction, fetch_out_pkg_fetch_fetch_out_agent_BFM,
+decode_decode_in_agent, decode_in_driver_bfm decode_in_monitor_bfm, decode_in_transaction, decode_in_pkg_decode_decode_in_agent_BFM,
+decode_decode_out_agent, decode_out_driver_bfm decode_out_monitor_bfm, decode_out_transaction, decode_out_pkg_decode_decode_out_agent_BFM,
+writeback_writeback_in_agent, writeback_in_driver_bfm writeback_in_monitor_bfm, writeback_in_transaction, writeback_in_pkg_writeback_writeback_in_agent_BFM,
+writeback_writeback_out_agent, writeback_out_driver_bfm writeback_out_monitor_bfm, writeback_out_transaction, writeback_out_pkg_writeback_writeback_out_agent_BFM,
+memaccess_memaccess_in_agent, memaccess_in_driver_bfm memaccess_in_monitor_bfm, memaccess_in_transaction, memaccess_in_pkg_memaccess_memaccess_in_agent_BFM,
+memaccess_memaccess_out_agent, memaccess_out_driver_bfm memaccess_out_monitor_bfm, memaccess_out_transaction, memaccess_out_pkg_memaccess_memaccess_out_agent_BFM,
+control_control_in_agent, control_in_driver_bfm control_in_monitor_bfm, control_in_transaction, control_in_pkg_control_control_in_agent_BFM,
+control_control_out_agent, control_out_driver_bfm control_out_monitor_bfm, control_out_transaction, control_out_pkg_control_control_out_agent_BFM,
+execute_execute_in_agent, execute_in_driver_bfm execute_in_monitor_bfm, execute_in_transaction, execute_in_pkg_execute_execute_in_agent_BFM,
+execute_execute_out_agent, execute_out_driver_bfm execute_out_monitor_bfm, execute_out_transaction, execute_out_pkg_execute_execute_out_agent_BFM,
+inst_mem_agent, inst_mem_driver_bfm inst_mem_monitor_bfm, inst_mem_transaction, inst_mem_pkg_inst_mem_agent_BFM,
+data_mem_agent, data_mem_driver_bfm data_mem_monitor_bfm, data_mem_transaction, data_mem_pkg_data_mem_agent_BFM,
+
